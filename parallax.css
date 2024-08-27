@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background: fixed;
+}
+html{
+    height: 500vh;
+}
+
+.container{
+max-width: 1200px;
+margin: auto;
+
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+header{
+    width: 100%;
+    padding: 60px 4%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    transition: .5s;
+
+}
+header i{
+    font-size: 30px;
+    color: white;
+}
+header ul{
+    list-style-type: none;
+}
+header ul li{
+    display: inline-block;
+    margin: 0 40px;
+}
+
+header ul li a{
+    color: white;
+    text-decoration: none
+}
+section.maizar{
+    height: 100vh;
+    background-image: url(ifc.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   display: flex;
+   align-items: center;
+   justify-content: center; 
+
+}
+.maizar h1{
+    font-size: 4em;
+    text-shadow: 2px 2px white;
+    
+
+}
+.maizar h1 span{
+    color: rgb(45, 193, 234);
+    text-shadow: 2px 2px black;
+}
+.btn-cadastro button{
+    width: 120px;
+    height: 40px;
+    border: 0;
+    background-color: rgb(6, 157, 199);
+    color: white;
+    cursor: pointer;
+    transition: .2s;
+}
+header.rolagem{
+    background-color: white;
+    padding: 20px 10%;
+}
+header.rolagem a, header.rolagem i{
+    color: rgb(6, 157, 199);
+}
+section.cidade{
+    background-image: url(fotocidade.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cidade h1{
+    
+    font-size: 5em;
+    text-shadow: 2px  2px white;
+}
+.cidade h1 span{
+    color:  rgb(6, 157, 199) ;
+    
+}
+section.cachoeira{
+    background-image: url(cachoeira.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+.cachoeira h1{
+    font-size: 4em;
+    text-shadow: 2px 2px white;
+}
+.cachoeira h1 span{
+    color:rgb(6, 157, 199);
+    
+}
+.quem-somos .texto{
+    font-family: Arial, sans-serif;
+    justify-content: center;
+} 
+.corpo{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.header1 {
+    width: 100%;
+    background-color: #0077b6;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.h11 {
+    margin: 0;
+    font-size: 36px;
+}
+
+.about-us {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 800px;
+    margin: 40px 20px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.gif-container {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.gif-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.description {
+    text-align: justify;
+}
+
+.description p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    background-color: #0077b6;
+    color: white;
+    margin-top: auto;
+}
+
+
+
+

@@ -1,0 +1,85 @@
+{
+    "points": [
+
+        {
+            "coords": [-27.0556, -49.5197],
+            "location": "Centro de Ibirama",
+            "quality": "Bom",
+            "co2": "380 ppm",
+            "temperature": "21°C",
+            "humidity": "68%",
+            "so2": "9 µg/m³",
+            "nox": "20 µg/m³"
+        },
+        {
+            "coords": [-27.0548, -49.5136],
+            "location": "Prefeitura de Ibirama",
+            "quality": "Moderado",
+            "co2": "390 ppm",
+            "temperature": "22°C",
+            "humidity": "65%",
+            "so2": "10 µg/m³",
+            "nox": "25 µg/m³"
+        },
+        {
+            "coords": [-27.0532, -49.5107],
+            "location": "Instituto Federal Catarinense - Campus Ibirama",
+            "quality": "Bom",
+            "co2": "370 ppm",
+            "temperature": "20°C",
+            "humidity": "70%",
+            "so2": "8 µg/m³",
+            "nox": "18 µg/m³"
+        },
+        {
+            "coords": [-27.0560, -49.5222],
+            "location": "Escola de Educação Básica Eliseu Guilherme",
+            "quality": "Regular",
+            "co2": "400 ppm",
+            "temperature": "23°C",
+            "humidity": "63%",
+            "so2": "12 µg/m³",
+            "nox": "30 µg/m³"
+        },
+        {
+            "coords": [-27.0488, -49.6235],
+            "location": "Centro de Presidente Getúlio",
+            "quality": "Moderado",
+            "co2": "420 ppm",
+            "temperature": "22°C",
+            "humidity": "64%",
+            "so2": "11 µg/m³",
+            "nox": "28 µg/m³"
+        },
+        {
+            "coords": [-27.0477, -49.6245],
+            "location": "Prefeitura de Presidente Getúlio",
+            "quality": "Bom",
+            "co2": "390 ppm",
+            "temperature": "21°C",
+            "humidity": "66%",
+            "so2": "10 µg/m³",
+            "nox": "22 µg/m³"
+        },
+        {
+            "coords": [-27.0465, -49.6223],
+            "location": "Escola de Educação Básica Osvaldo Cruz",
+            "quality": "Regular",
+            "co2": "430 ppm",
+            "temperature": "24°C",
+            "humidity": "60%",
+            "so2": "13 µg/m³",
+            "nox": "32 µg/m³"
+        },
+        {
+            "coords": [-27.0482, -49.6210],
+            "location": "Escola de Educação Básica Frederico Rolla",
+            "quality": "Ruim",
+            "co2": "450 ppm",
+            "temperature": "25°C",
+            "humidity": "58%",
+            "so2": "14 µg/m³",
+            "nox": "35 µg/m³"
+        }
+    ]
+}
